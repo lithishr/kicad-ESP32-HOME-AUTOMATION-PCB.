@@ -2,12 +2,12 @@
 
 Features
 
-✔ ESP32-based Wi-Fi control (supports web server & MQTT).
+ `ESP32-based Wi-Fi control (supports web server & MQTT).
 
-✔ 4-Channel relay output for appliance control.
+` 4-Channel relay output for appliance control.
 
-✔ Optoisolated inputs for safe external switch connections.
+ `Optoisolated inputs for safe external switch connections.
 
-✔ Onboard buck converter (AC/DC to 5V) for efficient power.
+ `Onboard buck converter (AC/DC to 5V) for efficient power.
 
-✔ Compact PCB design for easy enclosure integration
+ `Compact PCB design for easy enclosure integration
